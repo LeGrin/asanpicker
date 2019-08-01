@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/asanpicker/static/css/main.9e905bff.chunk.css",
+    "main.js": "/asanpicker/static/js/main.3021174f.chunk.js",
+    "main.js.map": "/asanpicker/static/js/main.3021174f.chunk.js.map",
+    "runtime~main.js": "/asanpicker/static/js/runtime~main.9b4a7aa9.js",
+    "runtime~main.js.map": "/asanpicker/static/js/runtime~main.9b4a7aa9.js.map",
+    "static/js/2.b41502e9.chunk.js": "/asanpicker/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/asanpicker/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/asanpicker/index.html",
+    "precache-manifest.ac0ab3cb86bdc2303d48b784045f6c7a.js": "/asanpicker/precache-manifest.ac0ab3cb86bdc2303d48b784045f6c7a.js",
+    "service-worker.js": "/asanpicker/service-worker.js",
+    "static/css/main.9e905bff.chunk.css.map": "/asanpicker/static/css/main.9e905bff.chunk.css.map",
+    "static/media/logo.svg": "/asanpicker/static/media/logo.5d5d9eef.svg"
+  }
+}
